@@ -5,5 +5,7 @@
   - div-by-uint
   - smaller-string
   - unnec-casting-same-type
+- folder name is contract address on Ethereum Mainnet
+- each folder has .sol file and report.md file
 
   
